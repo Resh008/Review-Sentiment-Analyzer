@@ -1,7 +1,7 @@
 # Review-Sentiment-Analyzer
 
-This study explored sentiment analysis on reviews of Kindle books. Our objective was to classify 
-these reviews into positive, negative, or neutral categories. We employed a text classification 
+In this study, I explored sentiment analysis on reviews of Kindle books. Our objective was to classify 
+these reviews into positive, negative, or neutral categories. I employed a text classification 
 approach, a technique that involves analyzing textual data and assigning it to predetermined 
 classifications. To achieve this, we developed a sequential model utilizing Long Short-Term 
 Memory (LSTM) networks. LSTMs are a type of recurrent neural network (RNN) adept at handling 
